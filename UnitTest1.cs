@@ -44,7 +44,10 @@ public class Tests
     [SetUp]
     public void Setup()
     {
-        driver = new ChromeDriver();
+       
+        var options = new ChromeOptions();
+        options.AddArgument("--headless=new");
+        driver = new ChromeDriver(options);
         driver.Manage().Window.Maximize();
         driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
         SetupExtentReports();

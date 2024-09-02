@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arijit/CSharpProject/Test1/Test1/TestGrantsFinder.csproj": {}
+    "/Users/arijit/CSharpProject/TestGrantsFInder/TestGrantsFinder/TestGrantsFinder.csproj": {}
   },
   "projects": {
-    "/Users/arijit/CSharpProject/Test1/Test1/TestGrantsFinder.csproj": {
+    "/Users/arijit/CSharpProject/TestGrantsFInder/TestGrantsFinder/TestGrantsFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arijit/CSharpProject/Test1/Test1/TestGrantsFinder.csproj",
+        "projectUniqueName": "/Users/arijit/CSharpProject/TestGrantsFInder/TestGrantsFinder/TestGrantsFinder.csproj",
         "projectName": "TestGrantsFinder",
-        "projectPath": "/Users/arijit/CSharpProject/Test1/Test1/TestGrantsFinder.csproj",
+        "projectPath": "/Users/arijit/CSharpProject/TestGrantsFInder/TestGrantsFinder/TestGrantsFinder.csproj",
         "packagesPath": "/Users/arijit/.nuget/packages/",
-        "outputPath": "/Users/arijit/CSharpProject/Test1/Test1/obj/",
+        "outputPath": "/Users/arijit/CSharpProject/TestGrantsFInder/TestGrantsFinder/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arijit/.nuget/NuGet/NuGet.Config"
